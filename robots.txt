@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dartscoreboardpro.app/sitemap.xml
+Sitemap: https://www.dartscoreboardpro.com/sitemap.xml
